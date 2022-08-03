@@ -59,7 +59,7 @@ process_workbook('transactions.xlsx')
 
 
 ## Popular Library for Machine Learning
-numpy   # Create multi-dimensional array
-pandas  # Data analysis library that provides concept called data frame (In the nutshell, 2D data structure similar to excel spreadsheet)
-matplotlib  # Plot 2D/3D plots
-scikit-learn # Provides decision tree, neural network algorithms and etc
+# numpy   # Create multi-dimensional array
+# pandas  # Data analysis library that provides concept called data frame (In the nutshell, 2D data structure similar to excel spreadsheet)
+# matplotlib  # Plot 2D/3D plots
+# scikit-learn # Provides decision tree, neural network algorithms and etc
