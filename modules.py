@@ -22,6 +22,9 @@
 from converters import kg_to_lbs    # Only import the UDF kg_to_lbs from converters module
 from converters import lbs_to_kg
 from nutils import find_max
+import module1
+
+module1.module_fx()
 print(round(kg_to_lbs(95),2))       # Since we import a particular function in converters module, we can call the
                                     # function directly without prefixing the UDF call with object converters.
 print(round(lbs_to_kg(205),2))
